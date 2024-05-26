@@ -1,31 +1,81 @@
 {
-  
-    "products": [
-      {
-        "id": 1,
-        "title": "Wireless Bluetooth Headphones",
-        "image": "https://media.istockphoto.com/id/1246138278/photo/silver-metallic-white-wireless-headphones-in-the-air-isolated-on-white-background-music.jpg?s=1024x1024&w=is&k=20&c=PF04kopxehEm8eEHIJcspW7xqG2Y2hcMlGtzXs3id_o=",
-        "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life."
-      },
-      {
-        "id": 2,
-        "title": "Smartphone",
-        "image": "https://images.unsplash.com/photo-1707438095940-1eee18e85400?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnRwaG9uZSUyMGFuZHJvaWR8ZW58MHx8MHx8fDA%3D",
-        "description": "Latest model smartphone with 5G connectivity, 128GB storage, and a stunning 6.5-inch display."
-      },
-      {
-        "id": 3,
-        "title": "Running Shoes",
-        "image": "https://media.istockphoto.com/id/956501428/photo/sport-shoes-on-isolated-white-background.webp?b=1&s=170667a&w=0&k=20&c=zQ0Dsy90DcfSH5YR3yZFR26FgkBx2z_LxIhx3M-JxKg=",
-        "description": "Lightweight and comfortable running shoes with breathable mesh and shock-absorbing sole."
-      },
-      {
-        "id": 4,
-        "title": "Espresso Machine",
-        "image": "https://media.istockphoto.com/id/640134766/photo/moka-coffee.webp?b=1&s=170667a&w=0&k=20&c=z7N1WyXAI-IXCQ1pKozYupEdGZqon1eyAQwHHEYUkVA=",
-        "description": "Compact espresso machine with a built-in grinder and milk frother, ideal for coffee enthusiasts."
-      }
-    ]
-  }
-  
-  
+  "products": [
+    {
+      "id": "1",
+      "price": 100,
+      "title": "Wireless Bluetooth Headphones",
+      "image": "https://media.istockphoto.com/id/1246138278/photo/silver-metallic-white-wireless-headphones-in-the-air-isolated-on-white-background-music.jpg?s=1024x1024&w=is&k=20&c=PF04kopxehEm8eEHIJcspW7xqG2Y2hcMlGtzXs3id_o=",
+      "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life."
+    },
+    {
+      "id": "2",
+      "price": 200,
+      "title": "Smartphone",
+      "image": "https://images.unsplash.com/photo-1707438095940-1eee18e85400?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnRwaG9uZSUyMGFuZHJvaWR8ZW58MHx8MHx8fDA%3D",
+      "description": "Latest model smartphone with 5G connectivity, 128GB storage, and a stunning 6.5-inch display."
+    },
+    {
+      "id": "3",
+      "price": 300,
+      "title": "Running Shoes",
+      "image": "https://media.istockphoto.com/id/956501428/photo/sport-shoes-on-isolated-white-background.webp?b=1&s=170667a&w=0&k=20&c=zQ0Dsy90DcfSH5YR3yZFR26FgkBx2z_LxIhx3M-JxKg=",
+      "description": "Lightweight and comfortable running shoes with breathable mesh and shock-absorbing sole."
+    },
+    {
+      "id": "4",
+      "price": 400,
+      "title": "Espresso Machine",
+      "image": "https://media.istockphoto.com/id/640134766/photo/moka-coffee.webp?b=1&s=170667a&w=0&k=20&c=z7N1WyXAI-IXCQ1pKozYupEdGZqon1eyAQwHHEYUkVA=",
+      "description": "Compact espresso machine with a built-in grinder and milk frother, ideal for coffee enthusiasts."
+    },
+    {
+      "id": "5",
+      "price": "350",
+      "title": "T-shirt",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "It is still good in condition. It is also looking cool ."
+    },
+    {
+      "id": "6",
+      "price": "4",
+      "title": "af",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "gfg"
+    },
+    {
+      "id": "6",
+      "price": "4",
+      "title": "af",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "gfg"
+    },
+    {
+      "id": "3",
+      "price": "3",
+      "title": "sd",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "w3"
+    },
+    {
+      "id": "3",
+      "price": "3",
+      "title": "sd",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "w3"
+    },
+    {
+      "id": "3",
+      "price": "3",
+      "title": "sd",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "w3"
+    },
+    {
+      "id": "3",
+      "price": "3",
+      "title": "sd",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "w3"
+    }
+  ]
+}
