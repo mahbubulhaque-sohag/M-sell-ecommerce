@@ -7,7 +7,7 @@ const Navbar = () => {
           <a className="btn btn-ghost text-xl">M Sell</a>
         </div>
         <div className="flex-none gap-2">
-          <Link to="/dashboard">Dashboard</Link>
+          <Link className="p-1 bg-slate-200 rounded mr-3" to="/dashboard">Dashboard</Link>
             <div className="btn btn-ghost btn-circle avatar">
               <div className="w-10 rounded-full">
                 <img alt="Tailwind CSS Navbar component" src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />

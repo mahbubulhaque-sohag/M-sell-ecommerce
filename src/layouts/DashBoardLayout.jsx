@@ -18,8 +18,8 @@ return (
       <Link className="border border-indigo-500 p-2 my-3" to="/dashboard" >Dashboard</Link>
       <Link className="border border-indigo-500 p-2 my-3" to="allProducts" >All Products</Link>
       <Link className="border border-indigo-500 p-2 my-3" to="addProduct" >Add Product</Link>
-      {/* <Link className="border border-indigo-500 p-2 my-3" to="editProduct" >Edit Product</Link>
-      <Link className="border border-indigo-500 p-2 my-3" to="/" >Delete Product</Link> */}
+      <Link className="border border-indigo-500 p-2 my-3" to="/" >Home</Link>
+     
     </ul>
   
   </div>

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Product from "../Product";
+import LatestProductCart from "./LatestProductCart";
 
 const LatestProducts = () => {
   const [products, setProducts] = useState([]);
@@ -19,7 +20,7 @@ const LatestProducts = () => {
       </h1>
       <div className="flex flex-wrap gap-3 justify-center">
         {products.slice(0, 3).map((product) => (
-          <Product key={product.id} product={product} />
+          <LatestProductCart key={product.id} product={product} />
         ))}
       </div>
     </div>
