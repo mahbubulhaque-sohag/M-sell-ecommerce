@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1",
-      "price": 100,
+      "price": "110",
       "title": "Wireless Bluetooth Headphones",
       "image": "https://media.istockphoto.com/id/1246138278/photo/silver-metallic-white-wireless-headphones-in-the-air-isolated-on-white-background-music.jpg?s=1024x1024&w=is&k=20&c=PF04kopxehEm8eEHIJcspW7xqG2Y2hcMlGtzXs3id_o=",
       "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life."
@@ -76,6 +76,20 @@
       "title": "sd",
       "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
       "description": "w3"
+    },
+    {
+      "id": "3",
+      "price": "3",
+      "title": "sd",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "w3"
+    },
+    {
+      "id": "3",
+      "price": "34",
+      "title": "rfte",
+      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
+      "description": "k"
     }
   ]
 }

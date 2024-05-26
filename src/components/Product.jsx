@@ -1,5 +1,7 @@
+import { Link } from "react-router-dom";
+
 const Product = ({ product }) => {
-  const { title, image, description } = product;
+  const {id, title, image, description } = product;
   return (
     <div className="card w-96 bg-base-100 shadow-xl">
       <figure>
@@ -11,6 +13,10 @@ const Product = ({ product }) => {
         {/* <div className="card-actions justify-end">
           <button className="btn btn-primary">Buy Now</button>
         </div> */}
+        <div className="flex gap-5">
+        <Link to={`/dashboard/editProduct/${id}`} className="btn btn-sm btn-accent">Edit</Link>
+        <Link className="btn btn-sm btn-error">Delete</Link>
+      </div>
       </div>
     </div>
   );
