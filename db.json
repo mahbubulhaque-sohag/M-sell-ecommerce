@@ -15,13 +15,6 @@
       "description": "Latest model smartphone with 5G connectivity, 128GB storage, and a stunning 6.5-inch display."
     },
     {
-      "id": "3",
-      "price": 300,
-      "title": "Running Shoes",
-      "image": "https://media.istockphoto.com/id/956501428/photo/sport-shoes-on-isolated-white-background.webp?b=1&s=170667a&w=0&k=20&c=zQ0Dsy90DcfSH5YR3yZFR26FgkBx2z_LxIhx3M-JxKg=",
-      "description": "Lightweight and comfortable running shoes with breathable mesh and shock-absorbing sole."
-    },
-    {
       "id": "4",
       "price": 400,
       "title": "Espresso Machine",
@@ -34,62 +27,6 @@
       "title": "T-shirt",
       "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
       "description": "It is still good in condition. It is also looking cool ."
-    },
-    {
-      "id": "6",
-      "price": "4",
-      "title": "af",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "gfg"
-    },
-    {
-      "id": "6",
-      "price": "4",
-      "title": "af",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "gfg"
-    },
-    {
-      "id": "3",
-      "price": "3",
-      "title": "sd",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "w3"
-    },
-    {
-      "id": "3",
-      "price": "3",
-      "title": "sd",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "w3"
-    },
-    {
-      "id": "3",
-      "price": "3",
-      "title": "sd",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "w3"
-    },
-    {
-      "id": "3",
-      "price": "3",
-      "title": "sd",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "w3"
-    },
-    {
-      "id": "3",
-      "price": "3",
-      "title": "sd",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "w3"
-    },
-    {
-      "id": "3",
-      "price": "34",
-      "title": "rfte",
-      "image": "https://media.istockphoto.com/id/1374470958/photo/portrait-of-cheerful-young-man.webp?b=1&s=170667a&w=0&k=20&c=0-LLyBO64G6u0NRsiXG4Wz2YArkXDNoyjkAttmEQaU0=",
-      "description": "k"
     }
   ]
 }

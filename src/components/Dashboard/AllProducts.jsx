@@ -19,7 +19,7 @@ const AllProducts = () => {
       </h1>
       <div className="flex flex-wrap gap-3 justify-center">
         {products.map((product) => (
-          <Product key={product.id} product={product} />
+          <Product key={product.id} product={product} products={products} setProducts={setProducts}/>
         ))}
       </div>
     </div>

@@ -34,7 +34,6 @@ const EditProduct = () => {
         }
 
         await axios.patch(`http://localhost:3000/products/${id}`, newProduct);
-        form.reset();
         toast("Product edited successfully!");
     }
     
