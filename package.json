@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "json-server": "^1.0.0-beta.0",
     "preact": "^10.19.6",
     "react-router-dom": "^6.23.1"
   },
